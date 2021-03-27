@@ -1,0 +1,15 @@
+{
+    "name": "hcodebr/composer",
+    "description": "aula de composer php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jeffgribeiro",
+            "email": "jeffgribeiro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    }
+}
