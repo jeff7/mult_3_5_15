@@ -12,7 +12,7 @@ class ModView
         $module = new Mod;
 
         for ($i = 1; $i <= 100; $i++) {
-            echo ' ' . $module->module($module->module($module->module($i, 15, 'ThreeAndFive'), 3, 'Three'), 5, 'Five');
+            echo ' ' . $module->Module($module->Module($module->Module($i, 15, 'ThreeAndFive'), 3, 'Three'), 5, 'Five');
         }
     }
 }
